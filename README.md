@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, EXCEl
 
 ## Education
 - Professional Diploma in Data Science	| African University of Science and Technology, Abuja (_December 2023_)
