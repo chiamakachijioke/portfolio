@@ -1,12 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, EXCEl
+#### Technical Skills: Python, SQL, EXCEL
 
 ## Education
 - Professional Diploma in Data Science	| African University of Science and Technology, Abuja (_December 2023_)
 - BSc., Industrial Mathematics and Applied Statistics | Ebonyi State University, Abakaliki (_October 2022_)								       		
 - Joint Universities Preliminary Examinations Board (JUPEB) | Ebonyi State University, Abakaliki (_October 2019_)			        		
-
 
 ## Work Experience
 **Mathematics/Further Mathematics Teacher @ Igbobi Boys College, Lagos State (_February 2024 - Present_)**
@@ -26,6 +25,6 @@
 - Developed expertise in robust exam invigilation and result compilation.
 
 ## Awards
-- Best Graduating Student 2022 in Ebonyi State University, Abakaliki, Nigeria.
+- **Best Graduating Student 2022** | Ebonyi State University, Abakaliki, Nigeria.
 
 
