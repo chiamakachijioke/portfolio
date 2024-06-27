@@ -3,8 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
+- Professional Diploma in Data Science	| African University of Science and Technology, Abuja (_December 2023_)
 - BSc., Industrial Mathematics and Applied Statistics | Ebonyi State University, Abakaliki (_October 2022_)								       		
-- Professional Diploma in Data Science	| African University of Science and Technology, Abuja (_December 2023_)	 			        		
+- Joint Universities Preliminary Examinations Board (JUPEB) | Ebonyi State University, Abakaliki (_October 2019_)			        		
 
 
 ## Work Experience
